@@ -1,0 +1,8 @@
+---
+channel: edge
+addons:
+  unifi:
+    repository: Wolvverine/addon-unifi
+    target: unifi
+    image: ghcr.io/wolvverine/unifi/{arch}
+
