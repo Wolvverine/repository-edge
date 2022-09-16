@@ -4,9 +4,6 @@
 ![Maintenance][maintenance-shield]
 [![License][license-shield]](LICENSE.md)
 
-[![Discord][discord-shield]][discord]
-[![Community Forum][forum-shield]][forum]
-
 ## About
 
 Home Assistant allows anyone to create add-on repositories to share their
@@ -24,7 +21,7 @@ Adding this add-ons repository to your Home Assistant instance is pretty easy. I
 Use the following URL to add this repository:
 
 ```txt
-https://github.com/Wolvverine/repository
+https://github.com/Wolvverine/repository-edge
 ```
 
 ## Add-ons provided by this repository
