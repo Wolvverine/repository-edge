@@ -39,5 +39,5 @@ schema:
 slug: unifi
 startup: services
 url: https://github.com/Wolvverine/addon-unifi
-version: 2.3.1.1
+version: 2.3.3
 webui: https://[HOST]:[PORT:8443]

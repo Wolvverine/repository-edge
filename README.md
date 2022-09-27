@@ -92,10 +92,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-unifi]: https://github.com/Wolvverine/addon-unifi/tree/v2.3.1.1
-[addon-doc-unifi]: https://github.com/Wolvverine/addon-unifi/blob/v2.3.1.1/README.md
+[addon-unifi]: https://github.com/Wolvverine/addon-unifi/tree/v2.3.3
+[addon-doc-unifi]: https://github.com/Wolvverine/addon-unifi/blob/v2.3.3/README.md
 [unifi-issue]: https://github.com/Wolvverine/addon-unifi/issues
-[unifi-version-shield]: https://img.shields.io/badge/version-v2.3.1-blue.svg
+[unifi-version-shield]: https://img.shields.io/badge/version-v2.3.3-blue.svg
 [unifi-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [unifi-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [unifi-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
